@@ -1,0 +1,5 @@
+data/* filter=lfs diff=lfs merge=lfs -text
+data/Positive/* filter=lfs diff=lfs merge=lfs -text
+data/Neutral/* filter=lfs diff=lfs merge=lfs -text
+data/Negative/* filter=lfs diff=lfs merge=lfs -text
+data/Mixed/* filter=lfs diff=lfs merge=lfs -text
